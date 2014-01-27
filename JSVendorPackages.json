@@ -1,0 +1,259 @@
+[
+  {
+    "caption": "jQuery",
+    "packages": 
+    [
+      {
+        "caption": "jQuery 1.10.2 min",
+        "url":"http://code.jquery.com/jquery-1.10.2.min.js"
+      },
+      {
+        "caption": "jQuery 1.10.2 dev",
+        "url":"http://code.jquery.com/jquery-1.10.2.js"
+      },
+      {
+        "caption": "jQuery 1.10.2 map",
+        "url":"http://code.jquery.com/jquery-1.10.2.min.map"
+      },
+      {
+        "caption": "jQuery 2.0.3 min",
+        "url":"http://code.jquery.com/jquery-2.0.3.min.js"
+      },
+      {
+        "caption": "jQuery 2.0.3 dev",
+        "url":"http://code.jquery.com/jquery-2.0.3.js"
+      },
+      {
+        "caption": "jQuery 2.0.3 map",
+        "url":"http://code.jquery.com/jquery-2.0.3.min.map"
+      },
+      {
+        "caption": "jQuery-ui 1.10.4 map",
+        "url":"http://code.jquery.com/ui/1.10.4/jquery-ui.js"
+      }
+    ]
+  },
+  {
+    "caption": "Backbone",
+    "packages": 
+    [
+      {
+        "caption": "Backbone 1.1.0 dev",
+        "url":"http://backbonejs.org/backbone.js"
+      },
+      {
+        "caption": "Backbone 1.1.0 min",
+        "url":"http://backbonejs.org/backbone-min.js"
+      },
+      {
+        "caption": "Backbone edge",
+        "url":"https://raw.github.com/jashkenas/backbone/master/backbone.js"
+      }
+    ]
+  },
+  {
+    "caption" : "ThreeJS",
+    "packages":
+    [
+      {
+        "caption": "Threejs GIT dev",
+        "url":"https://raw.github.com/mrdoob/three.js/master/build/three.js"
+      },
+      {
+        "caption": "Threejs GIT min",
+        "url":"https://raw.github.com/mrdoob/three.js/master/build/three.min.js"
+      },
+      {
+        "caption": "Stats GIT min",
+        "url":"https://raw.github.com/mrdoob/stats.js/master/build/stats.min.js"
+      }
+    ]
+  },
+
+  {
+    "caption" : "CreateJS",
+    "packages" :
+    [
+      {
+        "caption": "PreloadJS GIT min",
+        "url":"https://raw.github.com/CreateJS/PreloadJS/master/lib/preloadjs-0.4.1.min.js"
+      },
+      {
+        "caption": "PreloadJS NEXT min",
+        "url":"https://raw.github.com/CreateJS/PreloadJS/master/lib/preloadjs-NEXT.min.js"
+      },  
+
+
+      {
+        "caption": "EaselJS GIT min",
+        "url":"https://raw.github.com/CreateJS/EaselJS/master/lib/easeljs-0.7.1.min.js"
+      },
+      {
+        "caption": "EaselJS NEXT min",
+        "url":"https://raw.github.com/CreateJS/EaselJS/master/lib/easeljs-NEXT.min.js"
+      },
+
+
+      {
+        "caption": "SoundJS GIT min",
+        "url":"https://raw.github.com/CreateJS/SoundJS/master/lib/soundjs-0.5.2.min.js"
+      },
+      {
+        "caption": "SoundJS NEXT min",
+        "url":"https://raw.github.com/CreateJS/SoundJS/master/lib/soundjs-NEXT.min.js"
+      },
+      {
+        "caption": "SoundJS GIT flashplugin min",
+        "url":"https://github.com/CreateJS/SoundJS/blob/master/lib/flashplugin-0.5.2.min.js"
+      },
+      {
+        "caption": "SoundJS NEXT flashplugin min",
+        "url":"https://raw.github.com/CreateJS/SoundJS/master/lib/flashplugin-NEXT.min.js"
+      },
+      {
+        "caption": "SoundJS-flashplugin NEXT min",
+        "url":"https://raw.github.com/CreateJS/SoundJS/master/lib/soundjs.flashplugin-NEXT.min.js"
+      }
+    ]
+  },
+  {
+    "caption" : "Modernizr",
+    "packages" :
+    [
+      {
+        "caption": "Modernizr dev (latest)",
+        "url":"http://modernizr.com/downloads/modernizr-latest.js"
+      }
+    ]
+  },
+  {
+    "caption" : "SpinJS",
+    "packages" :
+    [
+      {
+        "caption": "Spin.js dev",
+        "url":"http://fgnass.github.io/spin.js/spin.js"
+      },
+      {
+        "caption": "Spin.js min",
+        "url":"http://fgnass.github.io/spin.js/spin.min.js"
+      }
+    ]
+  },
+  {
+    "caption" : "GreenSock",
+    "packages" : 
+    [
+      {
+        "caption": "TweenLite min",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/minified/TweenLite.min.js"
+      },
+      {
+        "caption": "TweenLite dev",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/uncompressed/TweenLite.js"
+      },
+      {
+        "caption": "TweenMax min",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/minified/TweenMax.min.js"
+      },
+      {
+        "caption": "TweenMax dev",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/uncompressed/TweenMax.js"
+      },
+      {
+        "caption": "jQuery GSAP min",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/minified/jquery.gsap.min.js"
+      },
+      {
+        "caption": "jQuery GSAP dev",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/uncompressed/jquery.gsap.js"
+      },
+      {
+        "caption": "TimelineLite min",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/minified/TimelineLite.min.js"
+      },
+      {
+        "caption": "TimelineLite dev",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/uncompressed/TimelineLite.js"
+      },
+      {
+        "caption": "TimelineMax min",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/minified/TimelineMax.min.js"
+      },
+      {
+        "caption": "TimelineMax dev",
+        "url":"https://raw.github.com/greensock/GreenSock-JS/master/src/uncompressed/TimelineMax.js"
+      }      
+    ]
+  },
+  {
+    "caption" : "Polyfills",
+    "packages" :
+    [
+      {
+        "caption": "JSON2 Polyfill",
+        "url":"https://raw.github.com/douglascrockford/JSON-js/master/json2.js"
+      }
+    ]
+  },
+  {
+    "caption" : "LazyJS",
+    "packages" :
+    [
+      {
+        "caption": "JazyJS",
+        "url":"http://danieltao.com/lazy.js/javascripts/lib/lazy.js"
+      }
+    ]
+  },
+  {
+    "caption" : "UnderscoreJS",
+    "packages" :
+    [
+      {
+        "caption": "UnderscoreJS dev",
+        "url":"https://raw.github.com/jashkenas/underscore/master/underscore.js"
+      },
+      {
+        "caption": "UnderscoreJS min",
+        "url":"https://raw.github.com/jashkenas/underscore/master/underscore-min.js"
+      },
+      {
+        "caption": "UnderscoreJS map",
+        "url":"https://raw.github.com/jashkenas/underscore/master/underscore-min.map"
+      }  
+    ]
+  },
+  {
+    "caption" : "RequireJS",
+    "packages" :
+    [
+      {
+        "caption" : "RequireJS 2.1.10 min",
+        "url" : "http://requirejs.org/docs/release/2.1.10/minified/require.js"
+      },
+      {
+        "caption" : "RequireJS 2.1.10 dev",
+        "url" : "http://requirejs.org/docs/release/2.1.10/comments/require.js"
+      },
+      {
+        "caption" : "RequireJS 2.1.10 r.js",
+        "url" : "http://requirejs.org/docs/release/2.1.10/r.js"
+      }
+    ]
+  },
+  {
+    "caption" : "dat.GUI",
+    "packages" :
+    [
+      {
+        "caption" : "dat.GUI dev",
+        "url" : "https://raw.github.com/dataarts/dat.gui/master/build/dat.gui.js"
+      },
+      {
+        "caption" : "dat.GUI min",
+        "url" : "https://raw.github.com/dataarts/dat.gui/master/build/dat.gui.min.js"
+      }
+    ]
+  }
+]

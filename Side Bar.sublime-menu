@@ -1,0 +1,4 @@
+[  
+	{ "caption": "Download JS Vendor (cdnjs, slower)", "command": "jsvendormanager", "args": {"dirs": [],"mode":"cdnjs"} }, 
+	{ "caption": "Download JS Vendor (github, faster)", "command": "jsvendormanager", "args": {"dirs": []} }, 
+] 
